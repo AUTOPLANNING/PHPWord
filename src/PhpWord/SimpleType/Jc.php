@@ -33,7 +33,7 @@ final class Jc extends AbstractEnum
 {
     const START = 'start';
     const CENTER = 'center';
-    const END = 'end';
+    const END = 'right';
     const BOTH = 'both';
     const MEDIUM_KASHIDA = 'mediumKashida';
     const DISTRIBUTE = 'distribute';
